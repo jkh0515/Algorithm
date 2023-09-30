@@ -2,7 +2,7 @@
 
 | 번호 | 문제 번호 | 문제 제목                            | 날짜       | 문제 유형        | 난이도        | 풀이 링크                                        |
 | --- | ------- | ---------------------------------- | ---------- | -------------- | -------------- | ------------------------------------------------ |
-| 1   | 155652  | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 2023-09-30 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg155652.cpp) |
+| 1   | 155652  | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 2023-09-30 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12944.cpp) |
 | 2   | 12944  | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | 2023-10-01 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg155652.cpp) |
 | 3   | 12937  | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) | 2023-10-01 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg155652.cpp) |
 | 4   | 12928  | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | 2023-10-01 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg155652.cpp) |
