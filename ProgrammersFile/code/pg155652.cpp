@@ -1,14 +1,10 @@
 //둘만의 암호
 
-#include <iostream>
 #include <string>
+#include <vector>
 using namespace std;
 
-int main() {
-    string s;
-    string skip;
-    int index;
-    cin >> s >> skip >> index;
+string solution(string s, string skip, int index) {
     for(int i=0;i<s.length();i++) {
         for(int j=0;j<index;j++) {
             s[i] = s[i] + 1;
@@ -27,6 +23,5 @@ int main() {
             }
         }
     }
-    cout << s;
-    return 0;
+    return s;
 }
