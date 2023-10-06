@@ -1,5 +1,5 @@
 //달리기 경주
-//수정중222 - 미완성
+//수정중3333 - 미완성
 
 #include <string>
 #include <vector>
@@ -16,7 +16,7 @@ typedef struct node {
 int hsh(string name) {
     int value = 0;
     for(int i=0;i<name.size();i++) {
-        value = (value * 29 + name[i]) % 50032;
+        value = (value * 29 + 111 + i + name[i]) % 50032;
     }
     return value;
 }
@@ -38,7 +38,7 @@ vector<string> solution(vector<string> pl, vector<string> ca) {
     node* hNode = createNode("-1", -1, 50032, -1, hsh(pl[0]));
     node* lNode = createNode("-1", -1, 50033, hsh(pl[size-1]), -1);
     node* fNode = createNode(pl[0], 0, hsh(pl[0]), 50032, hsh(pl[1]));
-    node* tNode = createNode(pl[size-1], size-1, hsh(pl[size-1]), hsh(pl[size-2]), -1);
+    node* tNode = createNode(pl[size-1], size-1, hsh(pl[size-1]), hsh(pl[size-2]), 50033);
     g[50032] = hNode;
     g[50033] = lNode;
     g[hsh(pl[0])] = fNode;
