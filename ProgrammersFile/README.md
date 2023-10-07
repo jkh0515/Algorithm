@@ -19,3 +19,28 @@
 | 9   | 161989  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | 2023-10-06 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg161989.cpp) |
 | 10   | 181187  | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 2023-10-07 | 연습문제 | <span style="color: green;">LV 2</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg181187.cpp) |
 </details>
+
+<div class="rectangle red"></div>
+<div class="rectangle green"></div>
+<div class="rectangle blue"></div>
+
+<style>
+.rectangle {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 10px; /* 각 사각형 사이의 간격 조정 */
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+</style>
