@@ -1,6 +1,6 @@
 ## 📚 **푼 문제 목록**
 <details>
-<summary>LV 1 - 16 문제</summary>
+<summary>LV 1 - 17 문제</summary>
   
   | 번호 | 문제 번호 | 문제 제목                            | 날짜       | 문제 유형        | 난이도        | 풀이 링크                                        |
 | --- | ------- | ---------------------------------- | ---------- | -------------- | -------------- | ------------------------------------------------ |
@@ -15,11 +15,12 @@
 | 9   | 12948  | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | 2023-10-06 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12948.cpp) |
 | 10   | 12969  | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | 2023-10-06 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12969.cpp) |
 | 11   | 132267  | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | 2023-10-06 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg132267.cpp) |
-| 12   | 172928  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | 2023-10-03 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg172928.cpp) |
-| 13   | 178871  | [달리기 경주 - (수정중)](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | 2023-10-04 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg178871.cpp) |
-| 14   | 147355  | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | 2023-10-04 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg147355.cpp) |
-| 15   | 161990  | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | 2023-10-05 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg161990.cpp) |
-| 16   | 161989  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | 2023-10-06 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg161989.cpp) |
+| 12   | 87389  | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87398) | 2023-10-06 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg87398.cpp) |
+| 13   | 172928  | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | 2023-10-03 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg172928.cpp) |
+| 14   | 178871  | [달리기 경주 - (수정중)](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | 2023-10-04 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg178871.cpp) |
+| 15   | 147355  | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | 2023-10-04 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg147355.cpp) |
+| 16   | 161990  | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | 2023-10-05 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg161990.cpp) |
+| 17   | 161989  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | 2023-10-06 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg161989.cpp) |
 </details><br>
 <details>
   <summary> LV 2 - 1  문제 </summary>
