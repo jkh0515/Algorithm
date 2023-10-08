@@ -1,6 +1,6 @@
 ## 📚 **푼 문제 목록**
 <details>
-<summary> **LV 1 - 16 문제** </summary>
+<summary>LV 1 - 16 문제</summary>
   | 번호 | 문제 번호 | 문제 제목                            | 날짜       | 문제 유형        | 난이도        | 풀이 링크                                        |
 | --- | ------- | ---------------------------------- | ---------- | -------------- | -------------- | ------------------------------------------------ |
 | 1   | 155652  | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 2023-09-30 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg155652.cpp) |
@@ -14,7 +14,7 @@
 | 9   | 161989  | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | 2023-10-06 | 연습문제 | <span style="color: green;">LV 1</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg161989.cpp) |
 </details><br>
 <details>
-  <summary> **LV 2 - 1  문제** </summary>
+  <summary> LV 2 - 1  문제 </summary>
   | 번호 | 문제 번호 | 문제 제목                            | 날짜       | 문제 유형        | 난이도        | 풀이 링크                                        |
 | --- | ------- | ---------------------------------- | ---------- | -------------- | -------------- | ------------------------------------------------ |
 | 1   | 181187  | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 2023-10-07 | 연습문제 | <span style="color: green;">LV 2</span> | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg181187.cpp) |
