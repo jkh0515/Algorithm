@@ -1,4 +1,5 @@
 //광물 캐기
+//수정중 - 미완
 
 #include <string>
 #include <vector>
