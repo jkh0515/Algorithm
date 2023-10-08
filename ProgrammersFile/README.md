@@ -2,8 +2,8 @@
 <details open>
 <summary>LV 1 - 17 문제</summary>
   
-  | 번호 | 문제 번호 | 문제 제목                            | 날짜       | 문제 유형        | 풀이 링크                                        |
-| :---: | ------- | ---------------------------------- | ---------- | :--------------: | ------------------------------------------------ |
+|   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
+| :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
 | 1 | 155652 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 2023-09-30 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg155652.cpp) |
 | 2 | 12928 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) | 2023-09-30 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12928.cpp) |
 | 3 | 12943 | [콜라스 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | 2023-10-01 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12943.cpp) |
