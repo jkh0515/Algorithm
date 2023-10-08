@@ -1,6 +1,4 @@
-### **프로그래머스**
-
-## 📚 **푼 문제 목록**
+## 📚 **해결한 문제 목록**
 <details open>
 <summary><b>LV 1 - 17 문제</b></summary>
   
@@ -25,7 +23,7 @@
 | 17 | 161989 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | 2023-10-06 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg161989.cpp) |
 </details><br>
 <details open>
-  <summary> LV 2 - 1  문제 </summary>
+  <summary><b>LV 2 - 1  문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
