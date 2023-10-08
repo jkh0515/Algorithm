@@ -25,7 +25,7 @@
 <details open>
   <summary> LV 2 - 1  문제 </summary>
   
-  | 번호 | 문제 번호 | 문제 제목                            | 날짜       | 문제 유형                | 풀이 링크                                        |
-| :---: | ------- | ---------------------------------- | ---------- | :---------------------: | ------------------------------------------------ |
-| 1   | 181187  | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 2023-10-07 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg181187.cpp) |
+|   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
+| :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
+| 1 | 181187 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 2023-10-07 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg181187.cpp) |
 </details>
