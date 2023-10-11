@@ -32,4 +32,5 @@
 | 2 | 172927 | [광물 캐기 - (수정중)](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg172927.cpp) |
 | 3 | 160585 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | 2023-10-09 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg160585.cpp) |
 | 4 | 155651 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 2023-10-10 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg155651.cpp) |
+| 5 | 178870 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | 2023-10-11 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg178870.cpp) |
 </details>
