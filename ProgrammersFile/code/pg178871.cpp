@@ -1,9 +1,11 @@
 //달리기 경주
-//수정중3333 - 미완성
+//수정중4444 - 미완성
 
 #include <string>
 #include <vector>
 using namespace std;
+
+const int M = 134180233;
 
 typedef struct node {
     string name;
@@ -14,12 +16,15 @@ typedef struct node {
 } node;
 
 int hsh(string name) {
-    int value = 0;
-    for(int i=0;i<name.size();i++) {
-        value = (value * 29 + 111 + i + name[i]) % 50032;
+    long long value = 0;
+    long long r = 3;
+    for(int i=0; i<name.size(); i++){
+        value = (value + (name[i] - 96) * r) % M;
+        r = (r * 31) % M;
     }
     return value;
 }
+
 
 node* createNode(string name, int now, int nowIdx, int pIdx, int nIdx) {
     node* newNode = new node;
@@ -34,17 +39,18 @@ node* createNode(string name, int now, int nowIdx, int pIdx, int nIdx) {
 vector<string> solution(vector<string> pl, vector<string> ca) {
     vector<string> answer;
     int size = pl.size();
-    node* g[50034] = {nullptr};
+    node* g[M+2] = {nullptr};
     node* hNode = createNode("-1", -1, 50032, -1, hsh(pl[0]));
     node* lNode = createNode("-1", -1, 50033, hsh(pl[size-1]), -1);
-    node* fNode = createNode(pl[0], 0, hsh(pl[0]), 50032, hsh(pl[1]));
-    node* tNode = createNode(pl[size-1], size-1, hsh(pl[size-1]), hsh(pl[size-2]), 50033);
-    g[50032] = hNode;
-    g[50033] = lNode;
+    node* fNode = createNode(pl[0], 0, hsh(pl[0]), M, hsh(pl[1]));
+    node* tNode = createNode(pl[size-1], size-1, hsh(pl[size-1]), hsh(pl[size-2]), M+1);
+    g[M] = hNode;
+    g[M+1] = lNode;
     g[hsh(pl[0])] = fNode;
     g[hsh(pl[size-1])] = tNode;
     for(int i=1;i<size-1;i++) {
         node* pNode = createNode(pl[i], i, hsh(pl[i]), hsh(pl[i-1]), hsh(pl[i+1]));
+        // while(g[hsh(pl[i])] != nullptr)
         g[hsh(pl[i])] = pNode;
     }
     for(int i=0;i<ca.size();i++) {
