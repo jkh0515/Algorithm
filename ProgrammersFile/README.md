@@ -36,4 +36,5 @@
 | 6 | 140107 | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | 2023-10-11 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg140107.cpp) |
 | 7 | 138476 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 2023-10-12 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg138476.cpp) |
 | 8 | 152996 | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 2023-10-13 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg152996.cpp) |
+| 9 | 148653 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 2023-10-14 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg148653.cpp) |
 </details>
