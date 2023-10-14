@@ -1,4 +1,4 @@
-// 마법의 엘리베이터
+//마법의 엘리베이터
 
 #include <string>
 #include <vector>
