@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 9 문제</b></summary>
+  <summary><b>LV 2 - 10 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -38,5 +38,5 @@
 | 8 | 152996 | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 2023-10-13 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg152996.cpp) |
 | 9 | 148653 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 2023-10-14 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg148653.cpp) |
 | 10 | 132265 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 2023-10-15 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg132265.cpp) |
-| 11 | 154538 | [숫자 변횐하기 - (수적중)](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | 2023-10-16 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg153448.cpp) |
+| 11 | 154538 | [숫자 변횐하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | 2023-10-16 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg153448.cpp) |
 </details>
