@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 15 문제</b></summary>
+  <summary><b>LV 2 - 17 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -44,4 +44,5 @@
 | 14 | 12981 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 2023-10-18 | Summer/Winter Coding(~2018) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12981.cpp) |
 | 15 | 76502 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 2023-10-19 | 월간 코드 챌린지 시즌 2 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg76502.cpp) |
 | 16 | 12941 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | 2023-10-19 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12941.cpp) |
+| 17 | 12939 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | 2023-10-19 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12939.cpp) |
 </details>
