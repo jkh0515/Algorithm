@@ -43,4 +43,5 @@
 | 13 | 12980 | [점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | 2023-10-18 | Summer/Winter Coding(~2018) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12980.cpp) |
 | 14 | 12981 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 2023-10-18 | Summer/Winter Coding(~2018) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12981.cpp) |
 | 15 | 76502 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 2023-10-19 | 월간 코드 챌린지 시즌 2 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg76502.cpp) |
+| 16 | 12941 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | 2023-10-19 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12941.cpp) |
 </details>
