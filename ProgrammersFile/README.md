@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 22 문제</b></summary>
+  <summary><b>LV 2 - 23 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -50,4 +50,5 @@
 | 20 | 42586 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 2023-10-21 | 스택/큐 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42584.cpp) |
 | 21 | 12973 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 2023-10-22 | 2017 팁스타운 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12973.cpp) |
 | 22 | 12953 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | 2023-10-22 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12953.cpp) |
+| 23 | 12951 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | 2023-10-22 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12951.cpp) |
 </details>
