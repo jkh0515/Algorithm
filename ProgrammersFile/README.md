@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 20 문제</b></summary>
+  <summary><b>LV 2 - 21 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -48,4 +48,5 @@
 | 18 | 42746 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 2023-10-20 | 정렬 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42746.cpp) |
 | 19 | 42586 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 2023-10-21 | 스택/큐 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42586.cpp) |
 | 20 | 42586 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 2023-10-21 | 스택/큐 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42584.cpp) |
+| 21 | 12973 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 2023-10-22 | 2017 팁스타운 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12973.cpp) |
 </details>
