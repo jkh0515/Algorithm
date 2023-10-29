@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 25 문제</b></summary>
+  <summary><b>LV 2 - 26 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -53,4 +53,5 @@
 | 23 | 12951 | [JadenCase 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | 2023-10-22 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12951.cpp) |
 | 24 | 154539 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | 2023-10-23 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg154539.cpp) |
 | 25 | 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | 2023-10-28 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12924.cpp) |
+| 26 | 68936 | [퀴드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | 2023-10-29 | 월간 코드 챌린지 시즌 1 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg68936.cpp) |
 </details>
