@@ -13,7 +13,6 @@ int cal(int n) {
 }
 
 int solution(int n) {
-    int answer = 0;
     for(int i=0;i<100001;i++)
         arr[i] = -1;
     arr[0] = 0; arr[1] = 1;
