@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 31 문제</b></summary>
+  <summary><b>LV 2 - 32 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -59,4 +59,5 @@
 | 29 | 68936 | [퀴드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | 2023-10-29 | 월간 코드 챌린지 시즌 1 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg68936.cpp) |
 | 30 | 131130 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | 2023-10-30 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg131130.cpp) |
 | 31 | 87390 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | 2023-10-31 | 월간 코드 챌린지 시즌 3 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg87390.cpp) |
+| 32 | 12909 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 2023-10-31 | 스택/큐 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12909.cpp) |
 </details>
