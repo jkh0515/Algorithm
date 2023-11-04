@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 34 문제</b></summary>
+  <summary><b>LV 2 - 36 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -63,4 +63,5 @@
 | 33 | 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 2023-11-01 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12911.cpp) |
 | 34 | 42587 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 2023-11-02 | 스택/큐 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42587.cpp) |
 | 35 | 70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | 2023-11-03 | 월간 코드 챌린지 시즌 1 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg70129.cpp) |
+| 36 | 12905 | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | 2023-11-04 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12905.cpp) |
 </details>
