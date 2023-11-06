@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 39 문제</b></summary>
+  <summary><b>LV 2 - 40 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -67,4 +67,5 @@
 | 37 | 77885 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | 2023-11-05 | 월간 코드 챌린지 시즌 2 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg77885.cpp) |
 | 38 | 42583 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 2023-11-05 | 스택/큐 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42583.cpp) |
 | 39 | 42842 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 2023-11-05 | 완전탐색 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42842.cpp) |
+| 40 | 12923 | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | 2023-11-06 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12923.cpp) |
 </details>
