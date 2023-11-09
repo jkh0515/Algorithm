@@ -1,9 +1,8 @@
-//과제 진행하기 - 미완
+//과제 진행하기
 
 #include <string>
 #include <vector>
 #include <map>
-#include <iostream>
 using namespace std;
 
 vector<string> solution(vector<vector<string>> plans) {
@@ -20,6 +19,8 @@ vector<string> solution(vector<vector<string>> plans) {
     for(int i=0;i<1441;i++) {
         if(tl[i] == -1) continue;
         int temp = tl[i];
+        if(will.find(temp)->second==1 and tl[i+1] !=-1)
+            answer.push_back(plans[temp][0]);
         while(tl[++i] == -1) {
             will.find(temp)->second--;
             if(will.find(temp)->second <= 1) {
@@ -27,7 +28,7 @@ vector<string> solution(vector<vector<string>> plans) {
                 while(ing.size() != 0) {
                     if(answer.size() + ing.size() != will.size() and tl[i+1] != -1) break;
                     ing.find(ingT[0])->second--;
-                    if(ing.find(ingT[0])->second <= 1) {
+                    if(ing.find(ingT[0])->second < 1) {
                         answer.push_back(plans[ing.find(ingT[0])->first][0]);
                         ing.erase(ing.find(ingT[0]));
                         ingT.erase(ingT.begin());
@@ -38,7 +39,7 @@ vector<string> solution(vector<vector<string>> plans) {
             }
         }
         if(will.find(temp)->second > 1) {
-            ing.insert({temp, will.find(temp)->second});
+            ing.insert({temp, will.find(temp)->second-1});
             ingT.insert(ingT.begin(), temp);
         }
         i--;
