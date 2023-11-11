@@ -73,4 +73,5 @@
 | 43 | 176962 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | 2023-11-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg176962.cpp) |
 | 44 | 62048 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | 2023-11-09 | Summer/Winter Coding(2019) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg62048.cpp) |
 | 45 | 142085 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 2023-11-10 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142085.cpp) |
+| 46 | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 2023-11-11 | 2020 KAKAO BLIND RECRUITMENT | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg60058.cpp) |
 </details>
