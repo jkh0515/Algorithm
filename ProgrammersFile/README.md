@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 2023-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 44 문제</b></summary>
+  <summary><b>LV 2 - 45 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -72,5 +72,5 @@
 | 42 | 12952 | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | 2023-11-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12952.cpp) |
 | 43 | 176962 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | 2023-11-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg176962.cpp) |
 | 44 | 62048 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | 2023-11-09 | Summer/Winter Coding(2019) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg62048.cpp) |
-| 45 | 142085 | [디펜스 게임(수정중)](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 2023-11-10 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142085.cpp) |
+| 45 | 142085 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 2023-11-10 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142085.cpp) |
 </details>
