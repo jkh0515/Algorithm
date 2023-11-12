@@ -1,7 +1,7 @@
 ## 📚 **해결한 문제 목록**
 <details open>
 <summary><b>LV 1 - 18 문제</b></summary>
-  .
+  
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
 | 1 | 155652 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 23-09-30 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg155652.cpp) |
