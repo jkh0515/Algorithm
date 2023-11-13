@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 23-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 46 문제</b></summary>
+  <summary><b>LV 2 - 48 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -75,4 +75,5 @@
 | 45 | 142085 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 23-11-10 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142085.cpp) |
 | 46 | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | 23-11-11 | 2020 KAKAO BLIND RECRUITMENT | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg60058.cpp) |
 | 47 | 12985 | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | 23-11-12 | 2017 팁스타운 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12985.cpp) |
+| 48 | 131127 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | 23-11-13 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg131127.cpp) |
 </details>
