@@ -79,4 +79,5 @@
 | 49 | 81302 | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 23-11-14 | 2021 카카오 채용연계형 인턴십 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg81302.cpp) |
 | 50 | 60057 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 23-11-15 | 2020 KAKAO BLIND RECRUITMENT | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg60057.cpp) |
 | 51 | 87377 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | 23-11-16 | 위클리 챌린지 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg87377.cpp) |
+| 52 | 12913 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 23-11-27 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12913.cpp) |
 </details>
