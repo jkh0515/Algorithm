@@ -82,4 +82,5 @@
 | 52 | 12913 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 23-11-27 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12913.cpp) |
 | 53 | 42885 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 23-11-28 | 탐용법(Greedy) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42885.cpp) |
 | 54 | 49994 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | 23-11-29 | Summer/Winter Coding(2018) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg49994.cpp) |
+| 55 | 42578 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 23-11-30 | 해시 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42578.cpp) |
 </details>
