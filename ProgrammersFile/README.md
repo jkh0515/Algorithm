@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 23-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 54 문제</b></summary>
+  <summary><b>LV 2 - 56 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -83,4 +83,5 @@
 | 53 | 42885 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 23-11-28 | 탐용법(Greedy) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42885.cpp) |
 | 54 | 49994 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | 23-11-29 | Summer/Winter Coding(2018) | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg49994.cpp) |
 | 55 | 42578 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 23-11-30 | 해시 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42578.cpp) |
+| 56 | 64065 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | 23-11-30 | 2019 카카오 개발자 겨울 인턴십 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg64065.cpp) |
 </details>
