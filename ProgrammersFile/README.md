@@ -24,7 +24,7 @@
 | 18 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 23-10-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg142086.cpp) |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 65 문제</b></summary>
+  <summary><b>LV 2 - 66 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
@@ -93,4 +93,5 @@
 | 63 | 12936 | [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | 23-12-06 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12936.cpp) |
 | 64 | 42839 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | 23-12-07 | 완전탐색 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42839.cpp) |
 | 65 | 181188 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | 23-12-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg181188.cpp) |
+| 66 | 12949 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | 23-12-10 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12949.cpp) |
 </details>
