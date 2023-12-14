@@ -95,5 +95,5 @@
 | 65 | 181188 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | 23-12-08 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg181188.cpp) |
 | 66 | 12949 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | 23-12-10 | 연습문제 | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg12949.cpp) |
 | 67 | 17687 | [(3차) n 진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | 23-12-13 | 2018 KAKAO BLIND RECRUITMENT | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg17687.cpp) |
-| 68 | 67257 | .[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | 23-12-14 | 2020 카카오 인턴십  | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg67257.cpp) |
+| 68 | 67257 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | 23-12-14 | 2020 카카오 인턴십  | [바로가기](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg67257.cpp) |
 </details>
