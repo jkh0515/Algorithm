@@ -1,5 +1,5 @@
 ## 📚 **해결한 문제 목록**
-<details open>
+<details>
 <summary><b>LV 1 - 18 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
@@ -27,7 +27,7 @@
   <summary><b>LV 2 - 69 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
-| :-----: | ----------- | -------------------------- | ---------- | :--------------: | ----------------- |
+| :-----: | ----------- | -------------------------- | ---------- | :--------------: | :-----------------: |
 | 1 | 181187 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 23-10-07 | 연습문제 | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg181187.cpp) ] |
 | 2 | 172927 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | 23-10-08 | 연습문제 | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg172927.cpp) ] |
 | 3 | 160585 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) | 23-10-09 | 연습문제 | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg160585.cpp) ] |
