@@ -1,4 +1,4 @@
-//연속된 부분 수열 합의 개수 [ C ]
+//연속 부분 수열 합의 개수 [ C ]
 
 #include <stdio.h>
 #include <stdbool.h>
