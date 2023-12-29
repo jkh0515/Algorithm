@@ -98,5 +98,5 @@
 | 67 | 17687 | [(3차) n 진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | 23-12-13 | 2018 KAKAO BLIND RECRUITMENT | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg17687.cpp) ] |
 | 68 | 67257 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | 23-12-14 | 2020 카카오 인턴십  | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg67257.cpp) ] |
 | 69 | 86971 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 23-12-18 | 완전탐색  | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg86971.cpp) ] |
-| 70 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 23-12-29 | 2022 KAKAO TECH INTERNSHIP | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg118667.cpp) ] |
+| 70 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 23-12-19 | 2022 KAKAO TECH INTERNSHIP | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg118667.cpp) ] |
 </details>
