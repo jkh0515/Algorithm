@@ -1,6 +1,7 @@
 //제로 [ C ]
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
     int n, arr[100001] = {0}, idx = 0, answer = 0;
