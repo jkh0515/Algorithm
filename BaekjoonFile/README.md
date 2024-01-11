@@ -1,7 +1,7 @@
 ## 📚 **푼 문제 목록**
 
-| 번호 | 문제 번호 | 문제 제목                            | 날짜       | 문제 유형        | 난이도        | 풀이 링크                              |
-| --- | ------- | ---------------------------------- | ---------- | -------------- | -------------- | :-----------------------------: |
+|  번호  | 문제 번호 | 문제 제목 |   날짜  | 문제 유형 | 난이도 | 풀이 링크 |
+| :---: | ------- | ------- | :----: | ------- | :----: | :------------: |
 | 1   | 10828  | [스택](https://www.acmicpc.net/problem/10828) | 2023-09-30 | 자료구조, 스택 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/> | [[ C++ ]](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/BaekjoonFile/code/bj10828.cpp) |
 | 2   | 10845  | [큐](https://www.acmicpc.net/problem/10845) | 2023-09-30 | 자료구조, 큐 | <img src="https://static.solved.ac/tier_small/7.svg" width="20px"/>  | [[ C++ ]](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/BaekjoonFile/code/bj10845.cpp) |
 | 3   | 10989  | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | 2023-09-30 | 정렬 | <img src="https://static.solved.ac/tier_small/5.svg" width="20px"/> | [[ C++ ]](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/BaekjoonFile/code/bj10989.cpp) |
