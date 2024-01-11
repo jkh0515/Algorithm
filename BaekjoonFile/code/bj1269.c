@@ -14,11 +14,8 @@ int main() {
     }
     for(int i=0;i<b;i++) {
         scanf("%d", &temp);
-        if(arr[temp] == 1) {
-            arr[temp] = 0;
+        if(arr[temp] == 1)
             answer -= 2;
-        }
-        else arr[temp] = 1;
     }
     printf("%d", answer);
     return 0;
