@@ -1,6 +1,6 @@
 ## 📚 **해결한 문제 목록**
 <details>
-<summary><b>LV 1 - 18 문제</b></summary>
+<summary><b>LV 1 - 19 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | :-----------------: |
@@ -25,7 +25,7 @@
 | 19 | 133499 | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 23-12-29 | 연습문제 | [ [C](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg133499.c) ] |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 71 문제</b></summary>
+  <summary><b>LV 2 - 73 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | :-----------------: |
@@ -100,4 +100,6 @@
 | 69 | 86971 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 23-12-18 | 완전탐색  | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg86971.cpp) ] |
 | 70 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | 23-12-19 | 2022 KAKAO TECH INTERNSHIP | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg118667.cpp) ] |
 | 71 | 42883 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 23-12-30 | 탐욕법(Greedy) | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42883.cpp) ] |
+| 72 | 131704 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | 24-01-08 | 연습문제 | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg131704.cpp) ] |
+| 73 | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | 24-01-08 | 월간 코드 챌린지 시즌1 | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg68645.cpp) ] |
 </details>
