@@ -102,6 +102,6 @@
 | 71 | 42883 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 23-12-30 | 탐욕법(Greedy) | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg42883.cpp) ] |
 | 72 | 131704 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | 24-01-08 | 연습문제 | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg131704.cpp) ] |
 | 73 | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | 24-01-08 | 월간 코드 챌린지 시즌1 | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg68645.cpp) ] |
-| 74 | 92335 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | 24-01-08 | 2022 KAKAO BLIND RECRUITMENT | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg92335.cpp) ] |
+| 74 | 92335 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 24-01-08 | 2022 KAKAO BLIND RECRUITMENT | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg92335.cpp) ] |
 | 75 | 49993 | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | 24-01-18 | Summer/Winter Coding(~2018) | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg49993.cpp) ] |
 </details>
