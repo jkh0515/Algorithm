@@ -1,4 +1,4 @@
-//수 정렬3 - 카운팅 정렬
+//수 정렬하기 3 [ C++ ] - 카운팅 정렬
 
 #include <iostream>
 using namespace std;
