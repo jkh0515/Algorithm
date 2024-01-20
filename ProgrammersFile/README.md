@@ -25,7 +25,7 @@
 | 19 | 133499 | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 23-12-29 | 연습문제 | [ [C](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg133499.c) ] |
 </details><br>
 <details open>
-  <summary><b>LV 2 - 75 문제</b></summary>
+  <summary><b>LV 2 - 76 문제</b></summary>
   
 |   번호   |   문제 번호   |         문제 제목            |    날짜     |     문제 유형      |      풀이 링크      |
 | :-----: | ----------- | -------------------------- | ---------- | :--------------: | :-----------------: |
@@ -104,4 +104,5 @@
 | 73 | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | 24-01-08 | 월간 코드 챌린지 시즌1 | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg68645.cpp) ] |
 | 74 | 92335 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | 24-01-08 | 2022 KAKAO BLIND RECRUITMENT | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg92335.cpp) ] |
 | 75 | 49993 | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | 24-01-18 | Summer/Winter Coding(~2018) | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg49993.cpp) ] |
+| 76 | 17684 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | 24-01-19 | 2018 KAKAO BLIND RECRUITMENT | [ [C++](https://github.com/jkh0515/Algorithm/blob/codespace-verbose-zebra-597rxj75w4q27474/ProgrammersFile/code/pg17684.cpp) ] |
 </details>
